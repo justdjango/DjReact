@@ -32,7 +32,7 @@ git reset --hard 3030f494a799e5b7996342e5176f7c604dcf868b
 Remove the git repo with this command on mac/linux:
 
 ```json
-rm .git
+rm -rf .git
 ```
 
 and this on windows:
