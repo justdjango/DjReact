@@ -1,0 +1,3 @@
+backend/env
+backend/**/*.pyc
+frontend/node_modules/

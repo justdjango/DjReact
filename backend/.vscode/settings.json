@@ -8,5 +8,5 @@
     "python.linting.pylintEnabled": true,
     "python.venvPath": "${workspaceFolder}/env/bin/python3",
     "python.linting.pep8Args": ["--ignore=E501"]
-  }
+}
   
