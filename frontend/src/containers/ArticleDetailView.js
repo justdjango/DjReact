@@ -1,6 +1,5 @@
 import React from 'react';
 import axios from 'axios';
-import { connect } from 'react-redux';
 
 import { Button, Card } from 'antd';
 
@@ -30,11 +29,6 @@ class ArticleDetail extends React.Component {
     }
 
     render() {
-
-        // if (!this.props.isAuthenticated) {
-        //     this.props.history.push('/auth');
-        // }
-
         return (
             <div>
                 <Card title={this.state.article.title}>
@@ -52,10 +46,4 @@ class ArticleDetail extends React.Component {
     }
 }
 
-const mapStateToProps = state => {
-    return {
-        isAuthenticated: state.isAuthenticated,
-    };
-};
-
-export default connect(mapStateToProps)(ArticleDetail);
+export default ArticleDetail;
