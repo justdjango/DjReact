@@ -23,7 +23,7 @@ cd DjReact
 git reset --hard 815eb83e0894d9bc5ebef66501721dc5063cf6a0
 ```
 
-For video 3:
+For [video 3](https://www.youtube.com/watch?v=BxzO2M7QcZw):
 
 ```json
 git reset --hard 3030f494a799e5b7996342e5176f7c604dcf868b
