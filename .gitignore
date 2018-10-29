@@ -2,3 +2,4 @@ env
 **/*.pyc
 node_modules/
 .vscode
+build
