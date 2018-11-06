@@ -8,8 +8,8 @@ const IconText = ({ type, text }) => (
       style={{
         marginRight: 8
       }}
-    />{" "}
-    {text}{" "}
+    />
+    {text}
   </span>
 );
 
@@ -45,8 +45,8 @@ const Articles = props => {
             avatar={<Avatar src={item.avatar} />}
             title={<a href={`/articles/${item.id}`}> {item.title} </a>}
             description={item.description}
-          />{" "}
-          {item.content}{" "}
+          />
+          {item.content}
         </List.Item>
       )}
     />
