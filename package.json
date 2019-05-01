@@ -5,13 +5,15 @@
   "dependencies": {
     "antd": "^3.7.3",
     "axios": "^0.18.0",
+    "lodash": "^4.17.11",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.8.6",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
     "redux": "^4.0.0",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "webpack-dev-server": "^3.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
