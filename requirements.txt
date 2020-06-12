@@ -20,7 +20,7 @@ requests==2.21.0
 requests-oauthlib==1.0.0
 six==1.11.0
 sqlparse==0.3.0
-typed-ast==1.1.0
+typed-ast==1.4.1
 urllib3==1.24.2
 whitenoise==3.3.1
 wrapt==1.10.11
