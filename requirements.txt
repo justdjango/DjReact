@@ -21,6 +21,6 @@ requests-oauthlib==1.0.0
 six==1.11.0
 sqlparse==0.3.0
 typed-ast==1.1.0
-urllib3==1.24.2
+urllib3==1.26.5
 whitenoise==3.3.1
 wrapt==1.10.11
